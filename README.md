@@ -1,5 +1,7 @@
 # Web IDL
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/Melon-Tropics/webidl.svg)](https://greenkeeper.io/)
+
 This is the repository where the [Web IDL](http://heycam.github.io/webidl/) specification is developed.
 
 ## Contributing
